@@ -246,8 +246,7 @@ $$p(A)p(x_2|y_1) = p(C)p(x_1|y_1).$$
 
 【2】[随机采样方法整理与讲解（MCMC、Gibbs Sampling等）](http://www.cnblogs.com/xbinworld/p/4266146.html)
 
-
-
+【3】https://blog.csdn.net/qy20115549/article/details/79635621
 
 
 
